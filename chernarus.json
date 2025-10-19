@@ -1,0 +1,392 @@
+[
+  {
+    "name": "Balota",
+    "x": 4550,
+    "z": 2450
+  },
+  {
+    "name": "Belaya Polana",
+    "x": 14050,
+    "z": 15150
+  },
+  {
+    "name": "Berezino",
+    "x": 12950,
+    "z": 10050
+  },
+  {
+    "name": "Berezhki",
+    "x": 15150,
+    "z": 13850
+  },
+  {
+    "name": "Bogatyrka",
+    "x": 1450,
+    "z": 8950
+  },
+  {
+    "name": "Bor",
+    "x": 3350,
+    "z": 3950
+  },
+  {
+    "name": "Chernaya Polana",
+    "x": 12150,
+    "z": 13750
+  },
+  {
+    "name": "Chernogorsk",
+    "x": 6750,
+    "z": 2650
+  },
+  {
+    "name": "Dobroe",
+    "x": 12950,
+    "z": 15050
+  },
+  {
+    "name": "Dolina",
+    "x": 11250,
+    "z": 6650
+  },
+  {
+    "name": "Drozhino",
+    "x": 3350,
+    "z": 4950
+  },
+  {
+    "name": "Dubky",
+    "x": 6650,
+    "z": 3650
+  },
+  {
+    "name": "Dubrovka",
+    "x": 10450,
+    "z": 9850
+  },
+  {
+    "name": "Elektrozavodsk",
+    "x": 10350,
+    "z": 2150
+  },
+  {
+    "name": "Gorka",
+    "x": 9550,
+    "z": 8850
+  },
+  {
+    "name": "Grishino",
+    "x": 5950,
+    "z": 10350
+  },
+  {
+    "name": "Guglovo",
+    "x": 8450,
+    "z": 6750
+  },
+  {
+    "name": "Gvozdno",
+    "x": 8550,
+    "z": 11950
+  },
+  {
+    "name": "Kabanino",
+    "x": 5350,
+    "z": 8650
+  },
+  {
+    "name": "Kamenka",
+    "x": 1950,
+    "z": 2250
+  },
+  {
+    "name": "Kamensk",
+    "x": 6650,
+    "z": 14550
+  },
+  {
+    "name": "Kamyshovo",
+    "x": 12150,
+    "z": 3550
+  },
+  {
+    "name": "Karmanovka",
+    "x": 12550,
+    "z": 14650
+  },
+  {
+    "name": "Khelm",
+    "x": 12250,
+    "z": 10950
+  },
+  {
+    "name": "Komarovo",
+    "x": 3650,
+    "z": 2550
+  },
+  {
+    "name": "Kozlovka",
+    "x": 4450,
+    "z": 4650
+  },
+  {
+    "name": "Krasnoe",
+    "x": 6450,
+    "z": 15050
+  },
+  {
+    "name": "Krasnostav",
+    "x": 11150,
+    "z": 12350
+  },
+  {
+    "name": "Lopatino",
+    "x": 2750,
+    "z": 10050
+  },
+  {
+    "name": "Mamino",
+    "x": 7950,
+    "z": 13050
+  },
+  {
+    "name": "Mogilevka",
+    "x": 7550,
+    "z": 5150
+  },
+  {
+    "name": "Msta",
+    "x": 11250,
+    "z": 5550
+  },
+  {
+    "name": "Myshkino",
+    "x": 2050,
+    "z": 7350
+  },
+  {
+    "name": "Nadezhdino",
+    "x": 5850,
+    "z": 4750
+  },
+  {
+    "name": "Nagornoe",
+    "x": 9250,
+    "z": 14650
+  },
+  {
+    "name": "Nizhnoye",
+    "x": 12950,
+    "z": 7950
+  },
+  {
+    "name": "Novaya Petrovka",
+    "x": 3650,
+    "z": 13150
+  },
+  {
+    "name": "Novodmitrovsk",
+    "x": 11650,
+    "z": 14450
+  },
+  {
+    "name": "Novoselky",
+    "x": 6150,
+    "z": 3250
+  },
+  {
+    "name": "Novy Sobor",
+    "x": 7050,
+    "z": 7750
+  },
+  {
+    "name": "Olsha",
+    "x": 13350,
+    "z": 12950
+  },
+  {
+    "name": "Orlovets",
+    "x": 12150,
+    "z": 7350
+  },
+  {
+    "name": "Pavlovo",
+    "x": 1650,
+    "z": 3850
+  },
+  {
+    "name": "Pogorevka",
+    "x": 4450,
+    "z": 6450
+  },
+  {
+    "name": "Polana",
+    "x": 10650,
+    "z": 8050
+  },
+  {
+    "name": "Polesovo",
+    "x": 5750,
+    "z": 13550
+  },
+  {
+    "name": "Prigorodki",
+    "x": 7950,
+    "z": 3250
+  },
+  {
+    "name": "Pulkovo",
+    "x": 4950,
+    "z": 5650
+  },
+  {
+    "name": "Pusta",
+    "x": 9150,
+    "z": 3850
+  },
+  {
+    "name": "Pustoshka",
+    "x": 3050,
+    "z": 7950
+  },
+  {
+    "name": "Ratnoe",
+    "x": 6150,
+    "z": 12750
+  },
+  {
+    "name": "Rogovo",
+    "x": 4750,
+    "z": 6850
+  },
+  {
+    "name": "Samorodok",
+    "x": 5750,
+    "z": 14550
+  },
+  {
+    "name": "Severograd",
+    "x": 7950,
+    "z": 12650
+  },
+  {
+    "name": "Shakhovka",
+    "x": 9650,
+    "z": 6650
+  },
+  {
+    "name": "Sinistok",
+    "x": 1450,
+    "z": 11950
+  },
+  {
+    "name": "Smirnovo",
+    "x": 11450,
+    "z": 15150
+  },
+  {
+    "name": "Solnichniy",
+    "x": 13450,
+    "z": 6150
+  },
+  {
+    "name": "Sosnovka",
+    "x": 2550,
+    "z": 6350
+  },
+  {
+    "name": "Staroye",
+    "x": 10150,
+    "z": 5450
+  },
+  {
+    "name": "Stary Sobor",
+    "x": 6150,
+    "z": 7750
+  },
+  {
+    "name": "Stary Yar",
+    "x": 4950,
+    "z": 15150
+  },
+  {
+    "name": "Svergino",
+    "x": 9550,
+    "z": 13850
+  },
+  {
+    "name": "Svetlojarsk",
+    "x": 13950,
+    "z": 13250
+  },
+  {
+    "name": "Tisy",
+    "x": 3450,
+    "z": 14850
+  },
+  {
+    "name": "Topolniki",
+    "x": 2750,
+    "z": 12350
+  },
+  {
+    "name": "Troitskoe",
+    "x": 7650,
+    "z": 13450
+  },
+  {
+    "name": "Tulga",
+    "x": 12850,
+    "z": 4450
+  },
+  {
+    "name": "Turovo",
+    "x": 13550,
+    "z": 14150
+  },
+  {
+    "name": "Vavilovo",
+    "x": 2250,
+    "z": 11050
+  },
+  {
+    "name": "Vybor",
+    "x": 3850,
+    "z": 8950
+  },
+  {
+    "name": "Vyshnaya Dubrovka",
+    "x": 9950,
+    "z": 10450
+  },
+  {
+    "name": "Vyshnoye",
+    "x": 6550,
+    "z": 6050
+  },
+  {
+    "name": "Vysotovo",
+    "x": 5650,
+    "z": 2550
+  },
+  {
+    "name": "Zabolotye",
+    "x": 1150,
+    "z": 10050
+  },
+  {
+    "name": "Zaprudnoe",
+    "x": 4550,
+    "z": 13250
+  },
+  {
+    "name": "Zelenogorsk",
+    "x": 2750,
+    "z": 5450
+  },
+  {
+    "name": "Zvir",
+    "x": 450,
+    "z": 5250
+  }
+]
